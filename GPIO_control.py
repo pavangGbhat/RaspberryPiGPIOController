@@ -522,7 +522,7 @@ c39.grid(row=20,column=1)
 c40.grid(row=20, column=4)
 
 b1=Button(f2,text="EXIT",bg="snow3",command=exitbutton,width=5,height=1)
-#b1.config(fonts=font)
+""'b1.config(fonts=font)"""
 b1.grid(row=22,column=1)
 
 win.mainloop()
