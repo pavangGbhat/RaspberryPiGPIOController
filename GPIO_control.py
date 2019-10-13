@@ -1,5 +1,5 @@
 from tkinter import *
-#GPIO pins intiallisation
+# #GPIO pins intiallisation
 
 import RPi.GPIO as GPIO
 GPIO.setmode(GPIO.BCM)
